@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @PREMIUM_COURSES_43 if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -101,7 +101,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @PREMIUM_COURSES_43**
     """
 
     PROCESSING = "**Processing…**"
@@ -158,7 +158,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by @PREMIUM_COURSES_43 🥰
     """
 
     REPORT_TEXT = """
@@ -191,7 +191,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you can't send any other task 🙂🔫
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @PREMIUM_COURSES_43 if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` file(s) have been extracted from that archive"
@@ -234,7 +234,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @PREMIUM_COURSES_43**
 **/donate** if you can 🥺
     """
 
@@ -261,7 +261,7 @@ Send **/commands** to learn more
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@PREMIUM_COURSES_43** or join the chat **@PREMIUM_COURSES_43**
     """
 
     ABOUT_TXT = """
@@ -269,11 +269,8 @@ Send **/commands** to learn more
 
 • **Language :** [Python 3.12.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+Made with ❤️ by **@PREMIUM_COURSES_43**
     """
 
     DONATE_TEXT = """
@@ -287,11 +284,9 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
+• **[Directly in Telegram](@PREMIUM_COURSES_43)**
+
+
 
 Thanks for your contribution 😊
 
@@ -541,7 +536,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @PREMIUM_COURSES_43 with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -559,7 +554,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @PREMIUM_COURSES_43 ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
