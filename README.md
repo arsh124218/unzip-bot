@@ -74,7 +74,7 @@ Deploying is easy 🥰 You can deploy this bot in Heroku or in a VPS ♥️
 
 #### The lazy way 
 
-[![Deploy me 🥺](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/EDM115/unzip-bot)  
+[![Deploy me 🥺](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/arsh124218/unzip-bot)  
 (if you're in a fork, make sure to replace the template URL with your repo’s one)
 
 ---
