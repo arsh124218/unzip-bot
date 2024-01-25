@@ -232,7 +232,7 @@ Use **/merge** to start one
 Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract any archive, with password or not, splitted, …
-Send **/commands** to learn more
+JOIN @PREMIUM_COURSES_43 TO USE ME ❤️❤️❤️
 
 **Made with ❤️ by @PREMIUM_COURSES_43**
 **/donate** if you can 🥺
