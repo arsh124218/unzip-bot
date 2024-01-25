@@ -229,7 +229,7 @@ Use **/merge** to start one
     ACTUAL_THUMB = "Your actual thumbnail"
 
     START_TEXT = """
-Hi **{}** 👋, I'm **Unarchiver bot** 🥰
+Hi **{}** 👋, I'm **NITRO UNZIP BOT** 🥰
 
 I can extract any archive, with password or not, splitted, …
 JOIN @PREMIUM_COURSES_43 TO USE ME ❤️❤️❤️
@@ -1031,11 +1031,11 @@ class Buttons:
         ]
     )
 
-    RATE_ME = InlineKeyboardMarkup(
+    FOLLOW_ME = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(Messages.RATE, url="https://t.me/BotsArchive/2705"),
-                InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback")
+                InlineKeyboardButton(Messages.MAIN_CHANNEL, url="https://t.me/PREMIUM_COURSES_43"),
+                InlineKeyboardButton(Messages.LEECH_GROUP, url="https://t.me/NITRO_LEECHERS")
             ],
         ]
     )
