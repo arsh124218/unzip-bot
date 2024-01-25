@@ -122,7 +122,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel checked"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join @PREMIUM_COURSES_43"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -256,7 +256,7 @@ Send **/commands** to learn more
 
 
 **• Got an error ?**
-    Visit edm115.dev/unzip#help
+    Visit @PREMIUM_COURSES_43
 
 
 **• I wanna have help 🥺**
@@ -291,7 +291,7 @@ It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 Thanks for your contribution 😊
 
 --Side note :--
-Donation doesn't count as a VIP subscription. Check **/vip** for more info
+Donation doesn't count as a VIP subscription. Follow @PREMIUM_COURSES_43
     """
 
     VIP_INFO = """
@@ -454,7 +454,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @PREMIUM_COURSES_43 if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -508,7 +508,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@PREMIUM_COURSES_43**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -614,10 +614,6 @@ If you sent /done by mistake and haven't sent all the files yet, just ignore thi
     STATS_OWNER = """
 **💫 Current bot stats 💫**
 
-**👥 Users :**
- ↳ **Users in database :** `{}`
- ↳ **Total banned users :** `{}`
-
 **💾 Disk usage :**
  ↳ **Total disk space :** `{}`
  ↳ **Used :** `{} - {}%`
@@ -671,7 +667,7 @@ If it fails again, it means that {} haven't started the bot yet (or deleted the 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@PREMIUM_COURSES_43**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
