@@ -204,7 +204,7 @@ async def send_file(unzip_bot, c_id, doc_f, query, full_path, log_msg, split):
                 )
             else:
                 thmb_pth = (
-                    f"{Config.THUMB_LOCATION}/thumbnail_{os.path.basename(doc_f)}.jpg"
+                    f"{Config.THUMB_LOCATION}/thumbnail_{os.path.basename(doc_f)}.PNG"
                 )
                 if os.path.exists(thmb_pth):
                     os.remove(thmb_pth)
