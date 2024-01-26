@@ -16,7 +16,7 @@
 
 ## Working bot 🥰
 
-[@unzip_edm115bot](https://t.me/unzip_edm115bot)  
+[@PREMIUM_COURSES_43](https://t.me/PREMIUM_COURSES_43)  
   
 ## Features 👀
 
